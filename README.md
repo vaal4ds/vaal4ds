@@ -1,7 +1,7 @@
 <h1>Hey! Welcome to my playground</h1>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhiZ25vcDczYTkwZ3Z5NDU1bHhxa2MzZzRzeHphZmEwYjNrMm80aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BoAaI3YDNIbX00BMmW/giphy.gif" width="600" alt="Header GIF">
+  <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhiZ25vcDczYTkwZ3Z5NDU1bHhxa2MzZzRzeHphZmEwYjNrMm80aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BoAaI3YDNIbX00BMmW/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhiZ25vcDczYTkwZ3Z5NDU1bHhxa2MzZzRzeHphZmEwYjNrMm80aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BoAaI3YDNIbX00BMmW/giphy.gif)" width="600" alt="Header GIF">
 </div>
 
 ---
