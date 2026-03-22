@@ -27,13 +27,12 @@ Currently exploring new machine learning topics one obsession at a time
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaal4ds/[vaal4ds/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaal4ds/vaal4ds/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaal4ds/vaal4ds/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vaal4ds/vaal4ds/output/pacman-contribution-graph.svg">
 </picture>
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/valeria-avino-999b552a9/">
