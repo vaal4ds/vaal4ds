@@ -1,7 +1,7 @@
 <h1>Hey! Welcome to my playground</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vaal4ds/vaal4ds/ms.gif" width="500" alt="header gif">
+  <img src="https://raw.githubusercontent.com/vaal4ds/vaal4ds/main/ms.gif" width="500" alt="header gif">
 </div>
 
 ---
