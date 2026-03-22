@@ -7,22 +7,7 @@
 ---
 
 ### 🙋‍♀️ About Me
-Currently exploring new machine learning topics one obsession at a time.  
-
----
-
-### 🛠️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="r logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo" />
-</div>
-
----
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> GitHub Stats & Achievements
+Currently exploring new machine learning topics one obsession at a time
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vaal4ds&theme=dracula" height="165"/>
@@ -31,26 +16,25 @@ Currently exploring new machine learning topics one obsession at a time.
 
 <br />
 
-<div>
+---
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="r logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo" />
+</div>
+
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaal4ds/vaal4ds/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaal4ds/[vaal4ds/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaal4ds/vaal4ds/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vaal4ds/vaal4ds/output/pacman-contribution-graph.svg">
 </picture>
-</div>
 
----
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
-### 🎵 Recently Played
-<div align="center">
-  <a href="https://open.spotify.com/user/valeria.avino1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=valeria.avino1" alt="Spotify recently played" />
-  </a>
-</div>
 
----
-
-### 📎 Connect with me
 <div align="center">
   <a href="https://www.linkedin.com/in/valeria-avino-999b552a9/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
